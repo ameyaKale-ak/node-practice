@@ -1,0 +1,23 @@
+{
+  "name": "practise-c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ameyaKale-ak/node-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ameyaKale-ak/node-practice/issues"
+  },
+  "homepage": "https://github.com/ameyaKale-ak/node-practice#readme",
+  "dependencies": {
+    "mongoose": "^5.12.7",
+    "underscore": "^1.13.1"
+  }
+}
